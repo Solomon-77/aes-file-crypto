@@ -22,6 +22,7 @@ This Python script provides a command-line tool for encrypting and decrypting fi
 - Clone the repository or download the script.
 - Navigate to the directory containing the script.
 - Run the script using Python:
+
      ```
      python aes.py
      ```
